@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {}
+    "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {
+    "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+        "projectPath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\apicatalogo\\obj\\",
+        "outputPath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

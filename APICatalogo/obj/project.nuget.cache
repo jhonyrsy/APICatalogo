@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GQTyYISYKc9UKISoX72MpOc+vISg/OZ7FBDcwU+MWnlOl9RbWzFoPD5sTvS2L/+r7yEtEvLIvBWCwQX9hoy5KA==",
+  "dgSpecHash": "emwvJw5moiGgXu1fjrgFEIWmiW6YALTpi2VqaxUojg7qCXSbYqCUbe5VPXnvGVr8lT64LcKazOha/GFTd6bCuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",

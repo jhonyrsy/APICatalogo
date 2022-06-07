@@ -10,6 +10,7 @@ public class Categoria
     {
         Produtos = new List<Produto>();
     }
+
     [Key]
     public int CategoriaId { get; set; }
     [Required]
